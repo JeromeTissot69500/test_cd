@@ -1,0 +1,36 @@
+/*Connexion/Registration*/
+
+.main-sizing-log-reg{
+    width: 100%;
+    height: 100vh;
+}
+
+.form-sizing-login{
+    width: 350px;
+    height: 450px;
+}
+
+.form-sizing-registration{
+    width: 400px;
+    height: 600px;
+}
+
+.img-background-sizing{
+    width: 100%;
+    height: 100vh;
+}
+
+.home-logo{
+    width: 25px;
+    height: 25px;
+}
+
+/* Index */
+.footer-sizing{
+    height: 100px;
+}
+
+.index-sizing{
+    width: 100%;
+    height: 100vh;
+}
